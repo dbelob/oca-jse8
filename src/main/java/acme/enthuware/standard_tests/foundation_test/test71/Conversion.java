@@ -1,4 +1,4 @@
-package acme.enthuware.standard_tests.test71;
+package acme.enthuware.standard_tests.foundation_test.test71;
 
 public class Conversion {
     public static void main(String[] args) {
