@@ -14,6 +14,7 @@
 
         <clean.plugin.version>3.1.0</clean.plugin.version>
         <compiler.plugin.version>3.7.0</compiler.plugin.version>
+        <jar.plugin.version>3.1.0</jar.plugin.version>
     </properties>
 
     <build>
@@ -40,6 +41,18 @@
                     <source>${project.build.javaVersion}</source>
                     <target>${project.build.javaVersion}</target>
                     <encoding>${project.build.sourceEncoding}</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>${jar.plugin.version}</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>acme.study_guide.assessment.test01._C</mainClass>
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
