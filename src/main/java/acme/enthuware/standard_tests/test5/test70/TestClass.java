@@ -1,7 +1,6 @@
 package acme.enthuware.standard_tests.test5.test70;
 
-//Consider the following code:
-
+// Consider the following code:
 public class TestClass{
     public void method(Object o){
         System.out.println("Object Version");
