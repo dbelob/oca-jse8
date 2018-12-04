@@ -7,3 +7,4 @@ See
 * (Real Brainer) *acme.enthuware.standard_tests.test2.test56* package
 * (Real Brainer) *acme.enthuware.standard_tests.test5.test16* package
 * (Very Tough) *acme.enthuware.standard_tests.test5.test24.Example* class
+* (Very Tough) *acme.enthuware.standard_tests.test5.test70.TestClass* class
