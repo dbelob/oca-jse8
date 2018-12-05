@@ -8,3 +8,4 @@ See
 * (Real Brainer) *acme.enthuware.standard_tests.test5.test16.Test* class
 * (Very Tough) *acme.enthuware.standard_tests.test5.test24.Example* class
 * (Very Tough) *acme.enthuware.standard_tests.test5.test70.TestClass* class
+* (Real Brainer) *acme.enthuware.standard_tests.test6.test44.TestClass* class
