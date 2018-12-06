@@ -9,3 +9,5 @@ See
 * (Very Tough) *acme.enthuware.standard_tests.test5.test24.Example* class
 * (Very Tough) *acme.enthuware.standard_tests.test5.test70.TestClass* class
 * (Real Brainer) *acme.enthuware.standard_tests.test6.test44.TestClass* class
+* (Tough) *acme.enthuware.standard_tests.last_day_test.test20.TestClass* class
+* (Very Tough) *acme.enthuware.standard_tests.last_day_test.test67.TestClass* class
