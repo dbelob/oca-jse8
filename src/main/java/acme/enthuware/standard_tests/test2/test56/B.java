@@ -22,4 +22,11 @@ class B extends A {
         System.out.println(i);
     }
 }
-// What will be the output when class B is run ?
+// What will be the output when class B is run?
+// You had to select 1 option:
+//
+// It will print A, 4
+// It will print A, A
+// It will print 0, 4
+// It will print 4, 4
+// None of the above

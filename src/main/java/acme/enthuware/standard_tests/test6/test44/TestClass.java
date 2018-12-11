@@ -15,3 +15,10 @@ public class TestClass{
         System.out.println(dataWrapper+value);
     }
 }
+// You had to select 1 option:
+//
+// 5 and 20
+// 6 and 515
+// 6 and 20
+// 6 and 615
+// It will not compile.

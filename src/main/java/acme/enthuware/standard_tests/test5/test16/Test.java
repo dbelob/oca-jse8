@@ -15,3 +15,10 @@ public class Test {
     }
 }
 // What will be the output when class Test is run?
+// You had to select 1 option:
+//
+// It will print In Sub and QBANK
+// It will print QBANK
+// Depends on the implementation of JVM
+// It will not even compile
+// None of the above

@@ -18,3 +18,10 @@ public class TestClass{
 }
 // What would be the output when the above program is compiled and run?
 // (Assume that FileNotFoundException is a subclass of IOException, which in turn is a subclass of Exception)
+// You had to select 1 option:
+//
+// It will print Object Version
+// It will print java.io.IOException Version
+// It will print java.io.FileNotFoundException Version
+// It will not compile.
+// It will throw an exception at runtime.
