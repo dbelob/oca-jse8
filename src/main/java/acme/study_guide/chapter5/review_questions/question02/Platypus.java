@@ -1,4 +1,4 @@
-package acme.study_guide.chapter5.review_questions.question2;
+package acme.study_guide.chapter5.review_questions.question02;
 
 class Mammal {
     public Mammal(int age) {

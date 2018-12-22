@@ -1,4 +1,4 @@
-package acme.study_guide.chapter6.review_questions.question7;
+package acme.study_guide.chapter6.review_questions.question07;
 
 public class DoSomething {
     public void go() {
