@@ -18,8 +18,8 @@ class TestClass{
 // What will be printed?
 // You had to select 1 option:
 //
-// In Number
-// In Object
-// In Long
-// In Integer
-// It will not compile.
+// A. In Number
+// B. In Object
+// C. In Long
+// D. In Integer
+// E. It will not compile.

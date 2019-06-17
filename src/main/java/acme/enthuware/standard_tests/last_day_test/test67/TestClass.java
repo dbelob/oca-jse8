@@ -14,9 +14,9 @@ class TestClass{
 }
 // You had to select 3 options:
 //
-// 0
-// -1
-// 127
-// -256
-// 256
-// For all the values between 0 and 255 (both included).
+// A. 0
+// B. -1
+// C. 127
+// D. -256
+// E. 256
+// F. For all the values between 0 and 255 (both included).

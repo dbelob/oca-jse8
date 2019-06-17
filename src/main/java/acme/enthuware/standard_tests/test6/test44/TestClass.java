@@ -17,8 +17,8 @@ public class TestClass{
 }
 // You had to select 1 option:
 //
-// 5 and 20
-// 6 and 515
-// 6 and 20
-// 6 and 615
-// It will not compile.
+// A. 5 and 20
+// B. 6 and 515
+// C. 6 and 20
+// D. 6 and 615
+// E. It will not compile.
