@@ -25,8 +25,8 @@ class B extends A {
 // What will be the output when class B is run?
 // You had to select 1 option:
 //
-// It will print A, 4
-// It will print A, A
-// It will print 0, 4
-// It will print 4, 4
-// None of the above
+// A. It will print A, 4
+// B. It will print A, A
+// C. It will print 0, 4
+// D. It will print 4, 4
+// E. None of the above

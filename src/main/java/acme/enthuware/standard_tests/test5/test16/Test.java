@@ -17,8 +17,8 @@ public class Test {
 // What will be the output when class Test is run?
 // You had to select 1 option:
 //
-// It will print In Sub and QBANK
-// It will print QBANK
-// Depends on the implementation of JVM
-// It will not even compile
-// None of the above
+// A. It will print In Sub and QBANK
+// B. It will print QBANK
+// C. Depends on the implementation of JVM
+// D. It will not even compile
+// E. None of the above
