@@ -1,6 +1,6 @@
 # OCA Java SE 8 experiments
 
-Small parts of the code for *OCA Java SE 8* (1Z0-808).
+Small parts of the code for *OCA Java SE 8* (1Z0-808) exam.
 
 ## Requirements
 
@@ -19,3 +19,7 @@ Small parts of the code for *OCA Java SE 8* (1Z0-808).
  6  | Real Brainer | See [acme.enthuware.standard_tests.test6.test44.TestClass](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test6/test44/TestClass.java) class | [Answer](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/test6/test44/Answer.md)
  7  | Tough | See [acme.enthuware.standard_tests.last_day_test.test20.TestClass](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test20/TestClass.java) class | [Answer](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test20/Answer.md)
  8  | Very Tough | See [acme.enthuware.standard_tests.last_day_test.test67.TestClass](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test67/TestClass.java) class | [Answer](https://github.com/dbelob/oca-jse8/blob/master/src/main/java/acme/enthuware/standard_tests/last_day_test/test67/Answer.md)
+
+## Next
+
+[OCP Java SE 8 experiments](https://github.com/dbelob/ocp-jse8)
